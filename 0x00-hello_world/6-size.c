@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
- * main - Entery
- * Return: Always 0
- */
+* main - Entery
+* Return: Always 0
+*/
 int main(void)
 {
 	printf("Size of a char: %i byte(s)\n", sizeof(char));
@@ -12,4 +12,3 @@ int main(void)
 	printf("Size of a float: %i bytes(s)\n", sizeof(float));
 	return (0);
 }
-
